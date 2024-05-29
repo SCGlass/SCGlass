@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on improving my Python skills<br>🤝 I’m looking for help with diversing within the world of Data science<br>🌱 I’m currently learning AI and Machine learning at IT Högskolan<br><br>My name is Sam and I am a student at IT Högskolan in Gothenburg<br>Sweden. <br>
+🔭 I'm currently expanding my knowledge within Data engineering<br>🤝 I’m looking for help with diversing within the world of Data science<br>🌱 I have completed my studies in AI and Machine learning<br><br>My name is Sam and I am a highly motivated data engineer in Sweden. <br>
 
 
 ## 🌐 Socials:
